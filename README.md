@@ -49,7 +49,7 @@ This analysis provides actionable insights into patient demographics, clinical o
 
 # Project 2 
 
-**Title:** SQL (DDL,DQL,DML) - Football players data 
+**Title:** SQL Data Definition, Query and manipulation language - Football players data 
 
 **SQL Code:** [Football players data](https://github.com/Jumoke-Lucas/Olajumoke.github.io/blob/main/Football_data.sql)
 
@@ -110,7 +110,7 @@ Data Visualization Techniques – Bar charts, donut charts, treemaps, scatter pl
 
 # Project 4 
 
-**Title:** SQL (DML,DQL) - Workplace safety data 
+**Title:** SQL Data manipulation and data query language - Workplace safety data 
 
 **SQL Code:** [Workplace safety data](https://github.com/Jumoke-Lucas/Olajumoke.github.io/blob/main/Workplace_safety_data.sql)
 
@@ -198,3 +198,25 @@ This report supports data‑driven decision‑making by highlighting high‑perf
 
 **Dashboard Overview:**
 ![superstore](Superstoore.jpeg)
+
+
+# Project 7
+
+**Title:** SQL Data manipulation language - Sales data 
+
+**SQL Code:** [Sales data](https://github.com/Jumoke-Lucas/Jumoke.github.io/blob/main/Sales_data.sql)
+
+**SQL Skills Used:** 
+Data Retrieval (SELECT): Extracted salesperson, cutsomer and order information across multiple tables
+
+Data filtering (WHERE, BETWEEN, AND, OR, IS NOT NULL, <>): Applied conditions to filter records 
+
+Data source specification (FROM, JOINS): Used in sourcing records from tables within the database 
+
+Inner join, Left join, Right join, Full outer join, Cross join 
+
+Sorting & Ranking (ORDER BY): Ordered results by names
+
+**Project Description:** This project involves writing and executing a comprehensive set of SQL join queries against a database containing 3 tables: Salesman, Customer and Order. The analysis explored relationships  between salespeople and their customers. 
+
+**Technology used:** SQL server(SSMS)
