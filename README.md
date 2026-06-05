@@ -86,7 +86,7 @@ DAX – Measures for KPIs, attrition rate, income metric. Calculated columns for
 
 Data Visualization Techniques – Bar charts, donut charts, treemaps, scatter plots, line charts, gauge.
 
-**Project Description:** This project involved developing a comprehensive HR Analytics Dashboard to help leadership understand workforce demographics, attrition patterns, employee satisfaction, income distribution, and career progression. I built a multi‑page interactive Power BI report that provides actionable insights into workforce demographics, retention risks, and performance indicators across departments, job roles, age groups, and job levels.
+**Project Description:** This project involved developing a comprehensive HR Analytics Dashboard to help leadership understand workforce demographics, attrition patterns, employee satisfaction, income distribution, and career progression. I built a 6‑page interactive Power BI report that provides actionable insights into workforce demographics, retention risks, and performance indicators across departments, job roles, age groups, and job levels.
 
 **Key findings:**
 - The company employs 1.47K staff with Research & Development being the largest department.
@@ -101,10 +101,15 @@ Data Visualization Techniques – Bar charts, donut charts, treemaps, scatter pl
 
 **Dashboard Overview:**
 ![hr1](https://github.com/Jumoke-Lucas/Olajumoke.github.io/blob/main/HR1.png)
+
 ![hr2](https://github.com/Jumoke-Lucas/Olajumoke.github.io/blob/main/HR2.png)
+
 ![hr3](https://github.com/Jumoke-Lucas/Olajumoke.github.io/blob/main/HR3.png)
+
 ![hr4](https://github.com/Jumoke-Lucas/Olajumoke.github.io/blob/main/HR4.png)
+
 ![hr5](https://github.com/Jumoke-Lucas/Olajumoke.github.io/blob/main/HR5.png)
+
 ![hr6](https://github.com/Jumoke-Lucas/Olajumoke.github.io/blob/main/HR6.png)
 
 
