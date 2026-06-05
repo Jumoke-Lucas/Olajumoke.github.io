@@ -134,3 +134,37 @@ Rounding & Formatting (ROUND): Rounded average incident cost values for cleaner 
 
 **Technology used:** SQL server(SSMS)
 
+
+# Project 5
+
+**Title:** [Cardiac surgery mortality dashboard](https://github.com/Jumoke-Lucas/Jumoke.github.io/blob/main/Cardiac%20surgery-%20Analysis.xlsx)
+
+**Tools Used:** Microsoft Excel (Pivot table, Power query editor, slicers, text box)
+
+**Project description:**  Analysed a full year of cardiac surgery procedures, combining clinical risk scores, patient outcomes, surgeon performance, and operational efficiency metrics. The dataset includes predicted mortality from two statistical models, actual mortality outcomes, patient demographics, procedure types, and time from admission and surgery.
+
+The dashboard includes the following features:
+
+Interactive slicers to filter by priority, Operation type and surgeon name. 
+
+Dynamic charts updating automatically with filter selections.
+
+Key analysis performed : 
+- Operations by Surgeon & Operation Type : Counted total procedures per surgeon, grouped by operation type to identify specialisation patterns. Highlighted surgeons with high volumes in CABG, Valve, or Aorta surgery.
+- Actual vs Predicted Mortality : Compared actual mortality to predicted risk from both models. Calculated mortality rate per surgeon and identified surgeons with outcomes better or worse than predicted.
+- Time Between Admission and Procedure : Converted Excel serial dates into datetime format. Calculated time difference in hours.
+
+
+**Key findings:**
+- CABG and Valve surgeries were the most common operation types.
+- Aorta surgery and Major cardiac procedures were performed by a smaller subset of surgeons
+- Actual mortality was generally lower than predicted for most surgeons.
+- Model 1 and Model 2 predictions were directionally consistent but differed in magnitude.
+- Elective cases had the longest waiting times, as expected.
+- Surgeons with higher caseloads tended to have more stable mortality performance.
+
+The goal of the analysis was to evaluate surgeon performance, compare predicted vs actual mortality, and understand how operational factors such as procedure priority affects time to treatment.
+  
+**Dashboard Overview:**
+![Cardiac surgery](cardiac.png)
+
